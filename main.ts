@@ -12,6 +12,3 @@ input.onLogoEvent(TouchButtonEvent.Touched, function () {
 })
 let puntua: game.LedSprite = null
 puntua = game.createSprite(2, 2)
-basic.forever(function () {
-	
-})
